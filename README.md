@@ -10,4 +10,4 @@ railsの勉強用のアプリです。
 訪れた国や地域を統計で可視化（例: 世界地図にピンを表示）。
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/b08a8ac6656de6a94805bd9531dc2f7b.png)](https://gyazo.com/b08a8ac6656de6a94805bd9531dc2f7b)
+[![Image from Gyazo](https://i.gyazo.com/7185ac6ce47f643f079c811ab270fbae.png)](https://gyazo.com/7185ac6ce47f643f079c811ab270fbae)
